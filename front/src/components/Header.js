@@ -9,7 +9,7 @@ class Header extends React.Component {
       <div className="header-limiter" id="Top">
       <h1><a href="/">BlissFul<span>Bites</span></a></h1>
       <nav>
-        <a className="headerlinks" href="/">Home</a>
+        <a className="headerlinks" href="/">Homess</a>
         <Link className="headerlinks" to="/menu">Store</Link>
         <Link className="headerlinks" to="/Blog">Blog</Link>
         {/* <Link className="headerlinks" to="/makeanorder">Make an order</Link> */}
